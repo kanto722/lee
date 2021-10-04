@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    &:active,&:focus{
+        outline: none;
+    }
+    
+}
+
+body{
+    background: linear-gradient(0.06deg, #26282C 0.35%, #35373B 192.77%);
+    // font-family: 'Rubik', sans-serif;
+    overflow-x:hidden;
+    position: relative;
+    color: #FDFDFD;    
+}
+.wrap{
+    width: 100%;
+    position: relative;
+    max-width: 1366px;
+    margin: 0 auto;
+    height: 100%; 
+    padding: 0 20px;
+}

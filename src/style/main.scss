@@ -1,0 +1,14 @@
+// Глобальные стили
+@import './components/globals.scss';
+
+// Адаптивный миксин
+@import './components/mediaStyle.scss';
+
+// Активные классы
+@import './components/activeStyle.scss';
+
+// классы шрифтов
+@import './components/fontsStyle.scss';
+
+// анимационные стили
+@import './components/animationStyle.scss';
