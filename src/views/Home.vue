@@ -1,20 +1,27 @@
 <template>
-    <!-- <Main /> -->
-    <!-- <Content /> -->
-    sdsdadasdsadas
+    <div class="promo">
+        <BannerOne />
+        <ContentOne />
+    </div>
 </template>
 
 <script>
-// import Main from '../components/Main'
-// import Content from '../components/Main/ViewContent.vue'
+import BannerOne from '../components/ViewComponents/Banners/Banner-home.vue'
+import ContentOne from '../components/ViewComponents/Content/Content-home.vue'
+
 export default {
     components: {
-        // Main,
-        // Content,
+        BannerOne,
+        ContentOne,
     }
 }
 </script>
 
-<style>
+<style lang='scss'>
+    .promo {
+        padding: 20px 20px;
+        position: relative;
+    }
 
+    
 </style>

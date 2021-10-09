@@ -1,11 +1,10 @@
 <template>
-  О нас
+  Франшиза
 </template>
 
 <script>
 export default {
-  components: {
-  }
+
 }
 </script>
 

@@ -1,11 +1,10 @@
 <template>
-  О нас
+  Вакансии
 </template>
 
 <script>
 export default {
-  components: {
-  }
+
 }
 </script>
 

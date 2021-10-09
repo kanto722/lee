@@ -1,5 +1,5 @@
 <template>
-  О нас
+  contacts
 </template>
 
 <script>

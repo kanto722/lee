@@ -1,11 +1,10 @@
 <template>
-  О нас
+  Акции
 </template>
 
 <script>
 export default {
-  components: {
-  }
+
 }
 </script>
 

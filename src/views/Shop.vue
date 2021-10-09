@@ -1,11 +1,10 @@
 <template>
-  О нас
+  магазин
 </template>
 
 <script>
 export default {
-  components: {
-  }
+
 }
 </script>
 

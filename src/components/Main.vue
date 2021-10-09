@@ -2,8 +2,8 @@
   <main class="layout">
     <div class="wrap">
       <div class="layout__row">
-        <Nav />
         <Content />
+        <Nav />
       </div>
     </div>
   </main>
@@ -25,7 +25,7 @@ export default {
   .layout {
     &__row {
       display: flex;
-      justify-content: center;
+      justify-content: space-between;
     }
   }
 </style>

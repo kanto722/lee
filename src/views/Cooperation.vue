@@ -1,11 +1,10 @@
 <template>
-  О нас
+  Сотрудниество
 </template>
 
 <script>
 export default {
-  components: {
-  }
+
 }
 </script>
 
